@@ -1,0 +1,6 @@
+.env
+.env.*
+.vercel
+!.env.example
+setup-output.log
+.env*
